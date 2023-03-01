@@ -40,16 +40,16 @@ API: Mapbox
 
 ## Screenshots
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/1.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/1.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/2.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/2.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/3.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/3.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/4.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/4.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/5.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/5.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/6.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/6.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/7.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/7.png?raw=true)
