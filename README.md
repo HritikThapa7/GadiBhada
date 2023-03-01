@@ -1,5 +1,6 @@
 
-# GadiBhada
+# GadiBhada 
+(Kindly checkout to branch hritik_full to see my contributions in this project)
 
 ‘GadiBhada’ is a digitised version of the local bus tracking and fare calculation system in Kathmandu Valley. It allows one to find an appropriate route to travel and calculate the approximate fare for local buses from any location in the valley.
 
@@ -40,16 +41,16 @@ API: Mapbox
 
 ## Screenshots
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/1.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/1.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/2.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/2.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/3.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/3.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/4.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/4.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/5.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/5.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/6.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/6.png?raw=true)
 
-![App Screenshot](https://github.com/KushMan123/GadiBhada/blob/master/Screenshot/7.png?raw=true)
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/7.png?raw=true)
